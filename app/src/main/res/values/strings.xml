@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pindah Activity</string>
+    <string name="welcome_to_second_activity">Welcome to second activity</string>
+    <string name="textview">TextView</string>
+</resources>
